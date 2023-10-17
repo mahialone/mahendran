@@ -1,0 +1,56 @@
+<html>
+<BODY BGCOLOR=black>
+<DIV STYLE="font-size:0.5CM;color:WHITE;text-shadow:5px 1px blue;">
+	<CENTER><H1>WELCOME TO MY WEBSITE</H1></CENTER>
+	<center > <h1>WELCOME TO MY DIGITAL PORTFOLIO</h1></center>
+</DIV>
+	<div style="height:10cm; width:15cm;top:2cm;left:22cm;position:absolute;font-size:; font-size:">
+		<ul>
+			
+			
+			<div style="height:10cm; width:15cm;top:3cm;left:0cm;position:absolute;font-size:; color:WHITE">
+			<a href=about.HTML target=output style="color:; font-size:1cm;background-color:;height:1cm;
+			width:6cm;left:5cm; border-radius:20px 20px;color:white">about</a><HR></li>
+			</div>
+			<div style="height:10cm; width:15cm;top:3cm;left:5cm;position:absolute;font-size:; font-size:">
+			<a href=hobbies.HTML target=output style="color:; font-size:1cm;background-color:;height:4cm;
+			width:6cm;left:10cm;border-radius:20px 20px ;color:white">hobbies </a><HR></li>
+			</div>
+			<div style="height:10cm; width:15cm;top:3cm;left:10cm;position:absolute;font-size:; font-size:">
+			<a href=likes.HTML target=output style="color:; font-size:1cm;background-color:;height:4cm;
+			width:6cm;left:15cm;border-radius:20px 20px;color:white">likes</a><HR></li>
+			</div>
+			<div style="height:10cm; width:15cm;top:3cm;left:14cm;position:absolute;font-size:; font-size:">
+			<a href=dislikes.HTML target=output style="color:; font-size:1cm;background-color:;height:4cm;
+			width:6cm;left:5cm;border-radius:20px 20px;color:white">dislikes</a><HR></li>
+			</div>
+			<div style="height:10cm; width:15cm;top:3cm;left:19cm;position:absolute;font-size:; font-size:">
+			<a href=dislikes.HTML target=output style="color:; font-size:1cm;background-color:;height:4cm;
+			width:6cm;left:5cm;border-radius:20px 20px;color:white">contact</a><HR></li>
+			</div>
+			<div style="height:10cm; width:15cm;top:3cm;left:25cm;position:absolute;font-size:; font-size:">
+			<a href=medical.HTML target=output style="color:; font-size:1cm;background-color:;height:4cm;
+			width:6cm;left:5cm;border-radius:20px 20px;color:white">portfolio</a><HR></li>
+			</div>
+		</ul>
+	</div>
+	<DIV STYLE="font-size:1CM">
+	
+			<div style="top:9cm;left:6cm; position:absolute;
+			font-size: cm;COLOR:WHITE"><center><h1>Hi,I'm</h1></center></div>
+	<div style="color:red;top:9cm;left:12cm; position:absolute;
+			"><center><h1>BRATHRAJ</h1></center></div>
+	<div style="color:WHITE;top:11cm;left:6cm; position:absolute;
+			"><center><h1>3'rd BCA</h1></center></div>
+	
+	
+
+	<div style="color:WHITE;top:13cm;left:6cm; position:absolute;
+			"><center><h1>Jawahar Science College</h1></center></div>
+
+				
+	</DIV>		
+		
+
+</BODY>
+</html>
